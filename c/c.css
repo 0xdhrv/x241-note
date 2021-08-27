@@ -1,0 +1,26 @@
+code[class*="language-"],
+pre[class*="language-"] {
+  line-height: 1;
+  direction: ltr;
+  text-align: left;
+  -moz-tab-size: 2;
+  -o-tab-size: 2;
+  tab-size: 2;
+  -webkit-hyphens: none;
+  -moz-hyphens: none;
+  -ms-hyphens: none;
+  hyphens: none;
+  background: #212121;
+  color: #F5F5F5;
+}
+pre[class*="language-"] {
+  padding: 1.5em;
+  margin: 0.5em 0;
+  border: 1px #212121 solid;
+}
+
+#logg {
+  background: -webkit-linear-gradient(#F5F5F5, #818181);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
